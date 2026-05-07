@@ -1,20 +1,19 @@
 # Hi, I'm Mouad 👋
 
-## Cloud Architect & Startup Founder
+## Building The Serverless API Platform
 
-Building scalable cloud-native solutions on AWS.
+Python developer and cloud architect. I build open-source infrastructure for serverless applications.
 
-- ☁️ **Serverless**: Lambda, API Gateway, DynamoDB
-- 🗄️ **DB Design**: RDS, PostgreSQL, Sync Process
-- ⚙️ **DevOps**: Terraform, Docker, EKS, CI/CD Pipelines
-- 🤖 **AI & ML**: SageMaker, Bedrock, Kinesis
+## Projects
 
----
+| Repo | Description |
+|------|-------------|
+| [aws-serverless-api](https://github.com/sforsa242-source/aws-serverless-api) | REST API with Lambda, API Gateway, DynamoDB |
+| [aws-security-scanner](https://github.com/sforsa242-source/aws-security-scanner) | CIS Benchmark scanner for IAM, S3, EC2, CloudTrail |
+| [aws-terraform-modules](https://github.com/sforsa242-source/aws-terraform-modules) | Reusable Terraform modules for VPC, S3, DynamoDB |
+| [aws-cicd-pipeline](https://github.com/sforsa242-source/aws-cicd-pipeline) | CI/CD pipeline with GitHub Actions, OIDC, Terraform |
+| [aws-monitoring-dashboard](https://github.com/sforsa242-source/aws-monitoring-dashboard) | CloudWatch dashboards and SNS alerts |
 
-## What I'm Building
+## Contact
 
-Focused on developing high-performance applications for the cloud.
-
-> "Exploring the limits of serverless technology to drive business innovation."
-
-[Website](https://sforsa242-source.github.io) | [Email](mailto:sforsa242@gmail.com)
+sforsa242@gmail.com
