@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mouad 👋
 
-<!--
-**sforsa242-source/sforsa242-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cloud Architect & Startup Founder
 
-Here are some ideas to get you started:
+Building scalable cloud-native solutions on AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☁️ **Serverless**: Lambda, API Gateway, DynamoDB
+- 🗄️ **DB Design**: RDS, PostgreSQL, Sync Process
+- ⚙️ **DevOps**: Terraform, Docker, EKS, CI/CD Pipelines
+- 🤖 **AI & ML**: SageMaker, Bedrock, Kinesis
+
+---
+
+## What I'm Building
+
+Focused on developing high-performance applications for the cloud.
+
+> "Exploring the limits of serverless technology to drive business innovation."
+
+[Website](https://sforsa242-source.github.io) | [Email](mailto:sforsa242@gmail.com)
